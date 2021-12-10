@@ -1,0 +1,308 @@
+{
+ "reference": "13131321321",
+  "date": "20-12-10T08:07:15.172+03:00",
+  "error": null,
+  "additionalParams": null,
+  "lci": {
+    "reference": "131313131",
+    "creationTime": "20-12-10T08:07:15.172+03:00",
+    "conclusionDate": "20-12-2021",
+    "closeData": null,
+    "status": "ACTIVE",
+    "modificationTime": "20-12-10T08:07:15.172+03:00",
+    "expireDate": "20-12-2021",
+    "amountValue": 150000.00,
+    "amountCurrency": "RUB",
+    "isRevocable": false,
+    "isCovered": true,
+    "isDigitalDocumentsAllowed": true,
+    "isTransferanceAllowed": false,
+    "isConfirmationRequired": false,
+    "isEarlyClosureAllowed": true,
+    "isPartialAvailabilityAllowed": false,
+    "isAutoCreated": false,
+    "draftChannel": null,
+    "draftId": null,
+    "availabilityType": "PAYMENT_AT_SIGN",
+    "applicantConfirmations": [
+      "sadasdadasd"
+    ],
+    "bankMars": [
+      "sadsadas"
+    ],
+    "documentPresentationPeriodType": null,
+    "externalReference": "12312312",
+    "hasVat": false,
+    "objectDeal": null,
+    "nominatedBank": {
+      "bic": "909090",
+      "correspondentAccount": "13132131",
+      "inn": "sadasd",
+      "swift": "sdadsad",
+      "name": "sadsad"
+    },
+    "issuingBank": {
+      "bic": "909090",
+      "correspondentAccount": "13132131",
+      "inn": "sadasd",
+      "swift": "sdadsad",
+      "name": "sadsad"
+    },
+    "advisingBank": {
+      "bic": "909090",
+      "correspondentAccount": "13132131",
+      "inn": "sadasd",
+      "swift": "sdadsad",
+      "name": "sadsad"
+    },
+    "applicant": {
+      "epkId": null,
+      "isResident": true,
+      "bankOffice": {
+        "name": "sadadsa",
+        "officeCode": "2131",
+        "bankRegionalName": "dasdasd",
+        "osbCode": "21312",
+        "bankBranchKey": "31",
+        "bic": "2132132131"
+      },
+      "account": {
+        "number": "1111111111111",
+        "bank": {
+          "bic": "909090",
+          "correspondentAccount": "13132131",
+          "inn": "sadasd",
+          "swift": "sdadsad",
+          "name": "sadsad"
+        }
+      },
+      "firstName": "sadasd",
+      "middleName": "dasda",
+      "lastName": "dsaas",
+      "contactDetails": [
+        {
+          "type":"PHONE",
+          "value": "89169293645"
+        }
+      ],
+      "birthDate": "10-10-2020",
+      "identityDocument": {
+        "docType": "LOCAL_Pa",
+        "series": "1312",
+        "number": "13455"
+      },
+      "communicationChannels": [
+        "ASFS"
+      ]
+    },
+    "beneficiary": {
+      "epkId": null,
+      "isResident": true,
+      "bankOffice": {
+        "name": "sadadsa",
+        "officeCode": "2131",
+        "bankRegionalName": "dasdasd",
+        "osbCode": "21312",
+        "bankBranchKey": "31",
+        "bic": "2132132131"
+      },
+      "account": {
+        "number": "12313131",
+        "bank": {
+          "bic": "909090",
+          "correspondentAccount": "13132131",
+          "inn": "sadasd",
+          "swift": "sdadsad",
+          "name": "sadsad"
+        }
+      },
+      "firstName": "ade",
+      "middleName": "sadasd",
+      "lastName": "adad",
+      "contactDetails":  [
+        {
+          "type":"PHONE",
+          "value": "89169293645"
+        }
+      ],
+      "birthDate": "12-12-2221",
+      "identityDocument": {
+        "docType": "sdadad",
+        "series": "23131",
+        "number": "123131"
+      },
+      "communicationChannels": [
+        "ASFS"
+      ]
+    },
+    "paymentPurpose": "sdasda",
+    "saleContracts": [
+      {
+        "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+        "type": "SALES",
+        "reference": "1321313",
+        "date": "12-12-2021",
+        "buyers": [
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": "dsf",
+            "middleName": "dsad",
+            "lastName": "dsada",
+            "companyName": null
+          },
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": null,
+            "middleName": null,
+            "lastName": null,
+            "companyName": "sadadada"
+          }
+        ],
+        "sellers": [
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": "dsf",
+            "middleName": "dsad",
+            "lastName": "dsada",
+            "companyName": null
+          },
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": null,
+            "middleName": null,
+            "lastName": null,
+            "companyName": "sadadada"
+          }
+        ],
+        "objectsOfSale": [
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "estateType": "FLAT",
+            "address": "sada",
+            "cadastralNumber": [
+              "11:22:43443:2311"
+            ],
+            "estateObjectDescription": null,
+            "allCadastralNumbers": null
+          }
+        ]
+      },
+      {
+        "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+        "type": "SALES",
+        "reference": "1321313",
+        "date": "12-12-2021",
+        "buyers": [
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": "dsf",
+            "middleName": "dsad",
+            "lastName": "dsada",
+            "companyName": null
+          },
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": null,
+            "middleName": null,
+            "lastName": null,
+            "companyName": "sadadada"
+          }
+        ],
+        "sellers": [
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": "dsf",
+            "middleName": "dsad",
+            "lastName": "dsada",
+            "companyName": null
+          },
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "firstName": null,
+            "middleName": null,
+            "lastName": null,
+            "companyName": "sadadada"
+          }
+        ],
+        "objectsOfSale": [
+          {
+            "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+            "estateType": "FLAT",
+            "address": "sada",
+            "cadastralNumber": [
+              "11:22:43443:2311"
+            ],
+            "estateObjectDescription": null,
+            "allCadastralNumbers": null
+          }
+        ]
+      }
+    ],
+    "submittedDocumentsRequirements": [
+      {
+        "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+        "submittedDocuments": [
+          ""
+        ]
+      },
+      {
+        "groupId": "c7ca8ac78ac70-0cac80a-asc0asca0",
+        "submittedDocuments": [
+          ""
+        ]
+      }
+    ],
+    "commission": {
+      "chargeAccount": "111111111111",
+      "chargesPayingPartyType": "APPLICANT",
+      "commissionAmount": null,
+      "chargesType": null
+    },
+    "techAccount": "13123131312",
+    "offBalanceSheetAccount": {
+      "number": "111111111111111111",
+      "bank": {
+        "bic": "909090",
+        "correspondentAccount": "13132131",
+        "inn": "sadasd",
+        "swift": "sdadsad",
+        "name": "sadsad"
+      }
+    },
+    "coverageAccount": {
+      "number": "111111111111111111",
+      "bank": {
+        "bic": "909090",
+        "correspondentAccount": "13132131",
+        "inn": "sadasd",
+        "swift": "sdadsad",
+        "name": "sadsad"
+      }
+    },
+    "issueLcChannel": "ASFS",
+    "applicationBankOffice": {
+      "name": "sadadsa",
+      "officeCode": "2131",
+      "bankRegionalName": "dasdasd",
+      "osbCode": "21312",
+      "bankBranchKey": "31",
+      "bic": "2132132131"
+    },
+    "operatorId": "1313123",
+    "operatorName": "dadad",
+    "balanceValue": null,
+    "isMortgage": false,
+    "ownFundsAccountNumber": "1111111111111111111",
+    "creditFundsAccountNumber": null,
+    "isFirstSale": true,
+    "ownFundsAmountValue": 150000.00,
+    "creditFundsAmountValue": 0,
+    "isAlternative": false,
+    "linkedDeals": null,
+    "linkedDealsEscrow": "23424",
+    "isEGRNStatementExecution": true,
+    "isEGRNRequestAllowed": true,
+    "creditContractNumber": null,
+    "creditContractDate": null
+  }
+}
